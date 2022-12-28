@@ -1,4 +1,4 @@
-#!/usr/bi/python3
+#!/usr/bin/python3
 import random
 number = random.radiant(-10000, 10000)
 a = number % 10
